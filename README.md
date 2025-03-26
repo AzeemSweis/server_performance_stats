@@ -14,3 +14,6 @@ Simple Script to see the performance of a linux server
 Paste or copy script into the directory you want to work in
 
 `bash server_stats.sh`
+
+# Project Reference
+https://roadmap.sh/projects/server-stats
